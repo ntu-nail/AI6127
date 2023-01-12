@@ -44,7 +44,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - There will be a final project contributing to the remaining 50% of the total course-work assessment.
   - ***2–4*** people per group
   - Project proposal: ***5%***, presentation: ***10%***, report: ***35%***
-- The project will be a group or individual work depending on the student’s preference. Students will be graded individually. The final project presentation will ensure the student’s understanding of the project
+- The project will be a group work. Students will be graded individually, depending on the contribution to the group. The final project presentation will ensure the student’s understanding of the project.
 
 # Course Prerequisites
 
