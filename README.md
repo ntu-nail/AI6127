@@ -130,3 +130,27 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
+ 
+## Week 3: Neural Networks & Optimization Basics
+
+[Lecture Slide](https://drive.google.com/file/d/1cGBYscIRwtjwzafo42omIdvYFYsn5nac/view?usp=share_link)
+
+### Lecture Content
+
+- From Logistic Regression to Feed-forward NN
+  - Activation functions
+- SGD with Backpropagation
+- Adaptive SGD (adagrad, adam, RMSProp)
+- Regularization (Weight Decay, Dropout, Batch normalization, Gradient clipping)
+
+### Practical exercise with Pytorch
+
+- [Deep learning with PyTorch](https://colab.research.google.com/drive/1aZVfsPUko-ugt1TVCmRwqGJXlxEJVaTq?usp=sharing)
+- [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
+- [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
+- [Numpy notebook](https://colab.research.google.com/drive/1IAonxZnZjJb0_xUVWHt5atIxaI5GTJQ2) [Pytorch notebook](https://colab.research.google.com/drive/1YzZrMAmJ3hjvJfNIdGxae9kxGABG6yaT)
+- Backpropagation
+- Dropout
+- Batch normalization
+- Initialization
+- Gradient clipping
