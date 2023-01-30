@@ -149,8 +149,42 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
 - [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
 - [Numpy notebook](https://colab.research.google.com/drive/1IAonxZnZjJb0_xUVWHt5atIxaI5GTJQ2) [Pytorch notebook](https://colab.research.google.com/drive/1YzZrMAmJ3hjvJfNIdGxae9kxGABG6yaT)
-- Backpropagation
-- Dropout
-- Batch normalization
-- Initialization
-- Gradient clipping
+  - Backpropagation
+  - Dropout
+  - Batch normalization
+  - Initialization
+  - Gradient clipping
+
+
+## Week 4: Word Vectors
+
+[Lecture Slide](https://drive.google.com/file/d/1-3neDzSr9lbdOH2keJrgBcppK67UPpgs/view?usp=share_link)
+
+[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link)
+
+### Lecture Content
+
+- Word meaning
+- Denotational semantics
+- Distributed representation of words
+- Word2Vec models (Skip-gram, CBOW)
+- Negative sampling
+- FastText
+- Evaluating word vectors
+  - Intrinsic evaluation
+  - Extrinsic evaluation
+- Cross-lingual word embeddings
+
+### Practical exercise with Pytorch
+
+[Skip-gram training](https://colab.research.google.com/drive/164dB-Vemzwavf1ffqDDVNtx7Y5VtcmQh)
+
+### Suggested Readings
+
+- Word2Vec Tutorial - The Skip-Gram Model, [blog](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) - Original word2vec paper
+- [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - negative sampling paper
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
+- [FastText: Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00051?mobileUi=0)
+- [Linguistic Regularities in Sparse and Explicit Word Representations.](https://levyomer.files.wordpress.com/2014/04/linguistic-regularities-in-sparse-and-explicit-word-representations-conll-2014.pdf)
+- [Neural Word Embeddings as Implicit Matrix Factorization.](https://arxiv.org/abs/1702.02098)
