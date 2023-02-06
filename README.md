@@ -188,3 +188,27 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [FastText: Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00051?mobileUi=0)
 - [Linguistic Regularities in Sparse and Explicit Word Representations.](https://levyomer.files.wordpress.com/2014/04/linguistic-regularities-in-sparse-and-explicit-word-representations-conll-2014.pdf)
 - [Neural Word Embeddings as Implicit Matrix Factorization.](https://arxiv.org/abs/1702.02098)
+
+## Week 5: Window-based Approach and Convolutional Nets
+
+[Lecture Slide](https://drive.google.com/file/d/1qft9fL2445OPXHGxvov8AcDK8_IH8Vos/view?usp=share_link)
+
+### Lecture Content
+
+- Classification tasks in NLP
+- Window-based Approach for language modeling
+- Window-based Approach for NER, POS tagging, and Chunking
+- Convolutional Neural Net for NLP
+- Max-margin Training
+
+### Suggested Readings
+
+- [Survey on Cross-lingual embedding methods](https://arxiv.org/abs/1706.04902)
+- [Slides on Cross-lingual embedding](https://www.dropbox.com/s/3eq5apr75yrz9ix/Cross-lingual%20word%20embeddings%20and%20beyond.pdf?dl=0)
+- [Adversarial autoencoder for unsupervised word translation](https://arxiv.org/abs/1904.04116)
+- [Evaluating Cross-Lingual Word Embeddings](https://www.aclweb.org/anthology/P19-1070)
+- [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320)
+- [Improving Distributional Similarity with Lessons Learned from Word Embeddings](https://www.aclweb.org/anthology/Q15-1016/)
+- [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+- [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
+- [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
