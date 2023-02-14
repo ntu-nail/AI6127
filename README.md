@@ -235,3 +235,17 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ### Practical exercise with Pytorch (CNN and RNN for NER)
 
 - [Named Entity Recognition](https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial/blob/master/Named_Entity_Recognition-LSTM-CNN-CRF-Tutorial.ipynb)
+
+### Suggested Readings
+
+- [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+- [Karpathy’s nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
+- [On the difficulty of training recurrent neural networks](http://proceedings.mlr.press/v28/pascanu13.pdf)
+- [Colah’s blog on LSTMs/GRUs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
+- [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
+- [Zero-Resource Cross-Lingual NER](https://arxiv.org/abs/1911.09812)
+- [Adaptive Softmax Paper](https://arxiv.org/abs/1609.04309)
+- [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
+- [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
