@@ -212,3 +212,26 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
+
+
+## Week 6: Recurrent Neural Nets
+
+[Lecture Slide](https://drive.google.com/file/d/1H-zu2tH4KxOG2k_zm9HunGqA9bZXP4Ow/view?usp=share_link)
+<!-- [Tutorial 3](https://drive.google.com/file/d/1YIZn3SzcRdVtagCp9D1RhsgCs0H83FNv/view?usp=sharing) -->
+
+### Lecture Content
+
+
+- Language modeling with RNNs
+- Backpropagation through time
+- Text generation with RNN LM
+- Sequence labeling with RNNs
+- Sequence classification with RNNs
+- Issues with Vanilla RNNs
+- Gated Recurrent Units (GRUs) and LSTMs
+- Bidirectional RNNs
+- Multi-layer RNNs
+
+### Practical exercise with Pytorch (CNN and RNN for NER)
+
+- [Named Entity Recognition](https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial/blob/master/Named_Entity_Recognition-LSTM-CNN-CRF-Tutorial.ipynb)
