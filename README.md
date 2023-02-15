@@ -234,7 +234,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ### Practical exercise with Pytorch (CNN and RNN for NER)
 
-- [Named Entity Recognition](https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial/blob/master/Named_Entity_Recognition-LSTM-CNN-CRF-Tutorial.ipynb)
+- [POS Tagging](https://notebook.community/sameersingh/uci-statnlp/tutorials/rnn_examples)
 
 ### Suggested Readings
 
