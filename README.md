@@ -249,3 +249,31 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adaptive Softmax Paper](https://arxiv.org/abs/1609.04309)
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
+
+## Week 7: Machine translation and Seq2Seg Models
+
+[Lecture Slide](https://drive.google.com/file/d/1pxOrsyvYdn1gh-Ln9NqLJ_bdqAikKF8Y/view?usp=share_link)
+
+Assignment 1 is out [here](https://drive.google.com/file/d/1UuXmhHyLO-ulxbPv_KzT_TKY1krvF4M-/view?usp=share_link). **Deadline: 21 March 2023**.
+<!-- [Tutorial]() -->
+
+### Lecture Content
+
+- Machine translation
+  - Early days (1950s)
+  - Statistical machine translation or SMT (1990-2010)
+  - Alignment in SMT
+  - Decoding in SMT
+  - Neural machine translation or NMT (2014 - )
+- Encoder-decoder model for NMT
+- Advantages and disadvantages of NMT
+- Greedy vs. beam-search decoding
+- MT evaluation
+
+### Suggested Readings
+
+- [Statistical Machine Translation slides, CS224n 2015 (lectures 2/3/4)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml)
+- [Sequence to Sequence Learning with Neural Networks (original seq2seq NMT paper)](https://arxiv.org/pdf/1409.3215.pdf)
+- [Statistical Machine Translation (book by Philipp Koehn)](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5)
+- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
+- [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
