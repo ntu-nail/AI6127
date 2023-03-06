@@ -277,3 +277,28 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1n9B8JD-nM8jqBCGN1npX
 - [Statistical Machine Translation (book by Philipp Koehn)](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5)
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
+
+## Week 8: Seq2Seg Models, Attentions, Subwords
+
+[Lecture Slide](https://drive.google.com/file/d/1_lH-q70xveoMOOvH7zBNE2RMGKNZcrq7/view?usp=share_link)
+
+### Lecture Content
+
+- Information bottleneck issue with vanilla Seq2Seq
+- Attention to the rescue
+- Details of attention mechanism
+- Sub-word models
+- Byte-pair encoding
+- Hybrid models
+
+<!--
+### Practical exercise with Pytorch
+
+- [Neural machine translation tutorial in pytorch](https://colab.research.google.com/drive/1cYyBxmdjFjKls0CEsPc8WIHfxPDy4eSq)
+-->
+
+### Suggested Readings
+
+- [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
+- [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
+- [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
