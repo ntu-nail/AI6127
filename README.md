@@ -302,3 +302,29 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1n9B8JD-nM8jqBCGN1npX
 - [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
+
+## Week 9: Seq2Seq Variants and Transformer
+
+[Lecture Slide](https://drive.google.com/file/d/16nQBrmyMToS9glZJVWWMxewNWy6kKAKy/view?usp=share_link)
+
+### Lecture Content
+
+- Seq2Seq Variants (Pointer nets, Pointer Generator Nets)
+  - Machine Translation
+  - Summarization
+- Transformer architecture
+  - Self-attention
+  - Positional encoding
+  - Multi-head attention
+
+[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+### Suggested Readings
+
+- [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
+- [Pointer Networks](https://papers.nips.cc/paper/5866-pointer-networks)
+- [Stack-Pointer Networks for Dependency Parsing](https://www.aclweb.org/anthology/P18-1130.pdf)
+- [A Unified Linear-Time Framework for Sentence-Level Discourse Parsing](https://arxiv.org/abs/1905.05682)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
