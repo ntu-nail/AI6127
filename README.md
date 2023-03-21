@@ -333,7 +333,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1n9B8JD-nM8jqBCGN1npX
 
 [Lecture Slide](https://drive.google.com/file/d/1opIq6aHdURsWAzPjnlMCIdS_XtTZ6csk/view?usp=share_link)
 
-Assignment 2 is out [To be added](). **Deadline: 18 Apr 2023, 11:59pm**.
+Assignment 2 is out [here](https://docs.google.com/document/d/1qPc-wcDgqoNI4iBBZOA_OiEfgxEQWRus/edit?usp=share_link&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 18 Apr 2023, 11:59pm**.
 
 ### Lecture Content
 
