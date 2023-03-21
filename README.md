@@ -332,6 +332,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1n9B8JD-nM8jqBCGN1npX
 ## Week 10: Contextual embeddings and self-supervised learning
 
 [Lecture Slide](https://drive.google.com/file/d/1opIq6aHdURsWAzPjnlMCIdS_XtTZ6csk/view?usp=share_link)
+
 Assignment 2 is out [To be added](). **Deadline: 18 Apr 2023, 11:59pm**.
 
 ### Lecture Content
