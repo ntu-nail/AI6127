@@ -365,3 +365,26 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1qPc-wcDgqoNI4iBBZ
 - [BERT Paper](https://arxiv.org/abs/1810.04805)
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
+
+## Week 11: Large Pretrained Language Models & Multilingual NLP
+
+[Final project report instruction](https://drive.google.com/file/d/1qOcUyZ4xsJhXOU5O3T9femw2DD8Yjm7v/view?usp=share_link)
+
+[Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
+
+### Lecture Content
+
+- Large Pretrained Language Models
+- Examples of Large Pretrained Language Models
+- Multilingual NLP
+  - Why we need Multilingual NLP?
+  - Low-resource NLP
+  - Cross-lingual models
+  - Multilingual models
+
+### Suggested Readings
+
+- [XLM paper](https://arxiv.org/abs/1901.07291)
+- [Transformer XL paper](https://arxiv.org/pdf/1901.02860.pdf)
+- [XLNet paper](https://arxiv.org/abs/1906.08237)
+- [mBART paper](https://arxiv.org/abs/2001.08210)
