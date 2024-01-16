@@ -25,7 +25,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 - Practical: Focus on practical techniques for training the models, and on GPUs.
 
-- Fun: Cover exciting new advancements in NLP (e.g., Transformer, BERT).
+- Fun: Cover exciting new advancements in NLP (e.g., Transformer, ChatGPT).
 
 # Assessment Approach
 
