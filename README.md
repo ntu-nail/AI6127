@@ -216,7 +216,9 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1H-zu2tH4KxOG2k_zm9HunGqA9bZXP4Ow/view?usp=share_link)
+
 [Project Proposal Instruction](https://drive.google.com/file/d/1DKX1wTOVyhh_tixIs2WjnLzXgLoe4Icb/view?usp=sharing). **Deadline: 5 March 2024**.
+
 Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQYHj_wV2hQqkd/view?usp=sharing). **Deadline: 12 March 2024**.
 
 ### Lecture Content
