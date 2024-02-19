@@ -212,11 +212,12 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 
-<!--
+
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1H-zu2tH4KxOG2k_zm9HunGqA9bZXP4Ow/view?usp=share_link)
-[Project Proposal Instruction](https://drive.google.com/file/d/1-3neDzSr9lbdOH2keJrgBcppK67UPpgs/view?usp=share_link)
+[Project Proposal Instruction](https://drive.google.com/file/d/1DKX1wTOVyhh_tixIs2WjnLzXgLoe4Icb/view?usp=sharing). **Deadline: 5 March 2024**.
+Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQYHj_wV2hQqkd/view?usp=sharing). **Deadline: 12 March 2024**.
 
 ### Lecture Content
 
@@ -249,6 +250,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
+<!--
 ## Week 7: Machine translation and Seq2Seg Models
 
 [Lecture Slide](https://drive.google.com/file/d/1pxOrsyvYdn1gh-Ln9NqLJ_bdqAikKF8Y/view?usp=share_link)
