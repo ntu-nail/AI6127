@@ -252,12 +252,10 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQ
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
-<!--
+
 ## Week 7: Machine translation and Seq2Seg Models
 
-[Lecture Slide](https://drive.google.com/file/d/1pxOrsyvYdn1gh-Ln9NqLJ_bdqAikKF8Y/view?usp=share_link)
-
-Assignment 1 is out [here](https://drive.google.com/file/d/1n9B8JD-nM8jqBCGN1npXY6dod3mTbVpN/view?usp=share_link). **Deadline: 21 March 2023**.
+[Lecture Slide](https://drive.google.com/file/d/1IlaZJjUvfG9kB0WpIihYTdBDC7KvZO9D/view?usp=sharing)
 
 ### Lecture Content
 
@@ -280,6 +278,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1n9B8JD-nM8jqBCGN1npX
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
 
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/1_lH-q70xveoMOOvH7zBNE2RMGKNZcrq7/view?usp=share_link)
