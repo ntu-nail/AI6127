@@ -292,6 +292,10 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQ
 - Byte-pair encoding
 - Hybrid models
 
+### Practical exercise with Pytorch
+
+- [Neural machine translation tutorial in pytorch](https://colab.research.google.com/drive/1cYyBxmdjFjKls0CEsPc8WIHfxPDy4eSq)
+
 ### Suggested Readings
 
 - [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
