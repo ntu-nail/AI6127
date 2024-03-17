@@ -317,7 +317,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQ
   - Positional encoding
   - Multi-head attention
 
-[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+[The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 
 ### Suggested Readings
 
