@@ -365,16 +365,18 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQ
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
-## Week 11: Large Pretrained Language Models & Multilingual NLP
 
-[Final project report instruction](https://drive.google.com/file/d/1qOcUyZ4xsJhXOU5O3T9femw2DD8Yjm7v/view?usp=share_link)
-Assignment 2 is out [here](https://docs.google.com/document/d/1qPc-wcDgqoNI4iBBZOA_OiEfgxEQWRus/edit?usp=share_link&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 18 Apr 2023, 11:59pm**.
+## Week 11: Large Language Models & Multilingual NLP
+
+Assignment 2 is out [here](https://drive.google.com/file/d/1zX79KZT3z8ugQgf7tXvzoE97BTpzHQw9/view?usp=sharing). **Deadline: 24 Apr 2024, 11:59pm**
+
+[Final project report instruction](https://drive.google.com/file/d/1tyB2sdr5_E5yCgGIHkRl3-QVpIfOVtCC/view?usp=sharing)
+
 [Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
 
 ### Lecture Content
 
-- Large Pretrained Language Models
+- Large Language Models
 - Examples of Large Pretrained Language Models
 - Multilingual NLP
   - Why do we need Multilingual NLP?
@@ -389,6 +391,7 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1qPc-wcDgqoNI4iBBZ
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
+<!--
 ## Week 12: Bias, Robustness, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1dmtmvG-tRpMui7Mr_z5zxk_jUHpy22HD/view?usp=share_link)
