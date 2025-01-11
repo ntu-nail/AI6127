@@ -105,7 +105,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1pYiD1Qtk9qoFvx54sh663HEDPE8uyJ9H/view?usp=sharing)
@@ -409,4 +409,4 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1zX79KZT3z8ugQgf7tXvz
 - [Bias in NLP](https://aclanthology.org/2021.acl-long.416.pdf)
 - [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
-
+-->
