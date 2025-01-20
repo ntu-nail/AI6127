@@ -42,7 +42,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 **Final Project (Group work but individually graded)**
 
 - There will be a final project contributing to the remaining 50% of the total coursework assessment.
-  - ***3–5*** students per group
+  - ***3–6*** students per group
   - Project proposal: ***5%***, presentation: ***15%***, report: ***30%***
 - The project will be a group work. Students will be graded individually, depending on their contribution to the group. The final project presentation will ensure the student’s understanding of the project.
 
@@ -105,7 +105,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-<!--
+
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1pYiD1Qtk9qoFvx54sh663HEDPE8uyJ9H/view?usp=sharing)
@@ -128,7 +128,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Supplementary]
 - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 
 ## Week 3: Neural Networks & Optimization Basics
 
