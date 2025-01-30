@@ -134,6 +134,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1Ncwe2ngjWEs9wO6WcpPRpQu3eS8iJqyn/view?usp=drive_link)
 
+[Recording of Lecture 3](https://drive.google.com/file/d/1VvPhV2Q2U49qgoYPGrGfEhqZC-PgFdBD/view?usp=sharing)
+
 ### Lecture Content
 
 - From Logistic Regression to Feed-forward NN
