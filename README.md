@@ -192,6 +192,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1qft9fL2445OPXHGxvov8AcDK8_IH8Vos/view?usp=share_link)
+
 [Final Project instruction](https://drive.google.com/file/d/1_GwKZVTgY0Z_iAh-es85_72n3DqhlXzo/view?usp=sharing)
 
 ### Lecture Content
@@ -214,12 +215,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 
-<!--
+
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1H-zu2tH4KxOG2k_zm9HunGqA9bZXP4Ow/view?usp=share_link)
-
-
 
 ### Lecture Content
 
@@ -257,7 +256,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1IlaZJjUvfG9kB0WpIihYTdBDC7KvZO9D/view?usp=sharing)
 
-Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQYHj_wV2hQqkd/view?usp=sharing). **Deadline: 12 March 2024**.
+Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoasj8iGfYGeKTKBsI/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 25 March 2024, 1159pm**.
 
 ### Lecture Content
 
@@ -280,7 +279,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1Zz8GJk7ISg3O8EkFTefQ
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
 
-
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/1_lH-q70xveoMOOvH7zBNE2RMGKNZcrq7/view?usp=share_link)
