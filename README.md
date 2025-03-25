@@ -330,7 +330,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoa
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
-<!--
+
 ## Week 10: Contextual embeddings and self-supervised learning
 
 [Lecture Slide](https://drive.google.com/file/d/16lEYYzu4dMmlr8lA4TFsCcJlPZB7x__6/view?usp=sharing)
@@ -366,7 +366,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoa
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-
+<!--
 ## Week 11: Large Language Models & Multilingual NLP
 
 Assignment 2 is out [here](https://drive.google.com/file/d/1zX79KZT3z8ugQgf7tXvzoE97BTpzHQw9/view?usp=sharing). **Deadline: 24 Apr 2024, 11:59pm**
