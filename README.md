@@ -366,12 +366,12 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoa
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
+
 ## Week 11: Large Language Models & Multilingual NLP
 
-Assignment 2 is out [here](https://drive.google.com/file/d/1zX79KZT3z8ugQgf7tXvzoE97BTpzHQw9/view?usp=sharing). **Deadline: 24 Apr 2024, 11:59pm**
+Assignment 2 is out [here](https://docs.google.com/document/d/1aZGVkHr1SAmPZE7G6bKbfJVpZJMIF2mZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 23 Apr 2025, 11:59pm**
 
-[Final project report instruction](https://drive.google.com/file/d/1tyB2sdr5_E5yCgGIHkRl3-QVpIfOVtCC/view?usp=sharing)
+[Final project report instruction](https://drive.google.com/file/d/1oRQXPBZNxiZr80dFKN8eSPn0EFky8edH/view?usp=sharing)
 
 [Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
 
@@ -392,7 +392,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1zX79KZT3z8ugQgf7tXvz
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
-
+<!--
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1keczGztqmPGd8G5lDgoIdLQviksctISQ/view?usp=drive_link)
