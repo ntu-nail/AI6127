@@ -21,8 +21,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 - Thorough and Detailed: How to write from scratch, debug, and train deep neural models
 
-- State of the art: Most lecture materials are new from the research world in the past 1-5 years.
-
 - Practical: Focus on practical techniques for training the models, and on GPUs.
 
 - Fun: Cover exciting new advancements in NLP (e.g., Transformer, ChatGPT).
@@ -44,7 +42,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - There will be a final project contributing to the remaining 50% of the total coursework assessment.
   - ***3–6*** students per group
   - Presentation: ***20%***, report: ***30%***
-- The project will be a group work. Students will be graded individually, depending on their contribution to the group. The final project presentation will ensure the student’s understanding of the project.
+- The project will be group work. Students will be graded individually, depending on their contribution to the group. The final project presentation will ensure the student’s understanding of the project.
 
 # Course Prerequisites
 
@@ -79,7 +77,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1hEV82cOGu7qao7neISrhA7vNMRyaoSI1/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1pyPNE116w9HlXZvrrQn6zsfgpgWFuspA/view?usp=sharing)
 
 ### Lecture Content
 
@@ -105,7 +103,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1pYiD1Qtk9qoFvx54sh663HEDPE8uyJ9H/view?usp=sharing)
@@ -410,3 +408,4 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1aZGVkHr1SAmPZE7G6
 - [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
 
+-->
