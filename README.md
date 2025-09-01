@@ -155,6 +155,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Week 4: Word Vectors
 
 [Lecture Slide](https://drive.google.com/file/d/1ekBb2CcjXrWj1-j6-cBXsFBjPc4DXpqx/view?usp=sharing)
+
 [Instruction to choose final project's topic](https://drive.google.com/file/d/1_GwKZVTgY0Z_iAh-es85_72n3DqhlXzo/view?usp=sharing)
 
 ### Lecture Content
