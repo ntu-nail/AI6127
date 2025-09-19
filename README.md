@@ -247,12 +247,12 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
-<!--
+
 ## Week 7: Machine translation and Seq2Seg Models
 
 [Lecture Slide](https://drive.google.com/file/d/1IlaZJjUvfG9kB0WpIihYTdBDC7KvZO9D/view?usp=sharing)
 
-Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoasj8iGfYGeKTKBsI/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 25 March 2024, 1159pm**.
+
 
 ### Lecture Content
 
@@ -275,9 +275,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoa
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
 
-
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
+Assignment 1 is out [here](https://docs.google.com/document/d/1LdUwpnpDYhPnjAfoasj8iGfYGeKTKBsI/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 25 March 2024, 1159pm**.
 [Lecture Slide](https://drive.google.com/file/d/1_lH-q70xveoMOOvH7zBNE2RMGKNZcrq7/view?usp=share_link)
 
 ### Lecture Content
