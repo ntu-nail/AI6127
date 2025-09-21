@@ -250,7 +250,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 7: Machine translation and Seq2Seg Models
 
-Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX-Xpln8jJavUaj-E/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 14 Oct 2025, 1159pm**.
+Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX-Xpln8jJavUaj-E/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 14 Oct 2025, 11:59pm**.
 
 [Lecture Slide](https://drive.google.com/file/d/1IlaZJjUvfG9kB0WpIihYTdBDC7KvZO9D/view?usp=sharing)
 
