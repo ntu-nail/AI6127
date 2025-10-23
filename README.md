@@ -334,6 +334,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX
 
 [Lecture Slide](https://drive.google.com/file/d/16lEYYzu4dMmlr8lA4TFsCcJlPZB7x__6/view?usp=sharing)
 
+[Final project report instruction](https://drive.google.com/file/d/1nRQI5reIZc0olmD_6kywbV6Za9akth5B/view?usp=sharing)
+
 ### Lecture Content
 
 - Why semi-supervsied?
@@ -370,7 +372,6 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX
 
 Assignment 2 is out [here](https://docs.google.com/document/d/1aZGVkHr1SAmPZE7G6bKbfJVpZJMIF2mZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 23 Apr 2025, 11:59pm**
 
-[Final project report instruction](https://drive.google.com/file/d/1oRQXPBZNxiZr80dFKN8eSPn0EFky8edH/view?usp=sharing)
 
 [Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
 
