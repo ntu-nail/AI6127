@@ -367,11 +367,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
+
 ## Week 11: Large Language Models & Multilingual NLP
-
-Assignment 2 is out [here](https://docs.google.com/document/d/1aZGVkHr1SAmPZE7G6bKbfJVpZJMIF2mZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 23 Apr 2025, 11:59pm**
-
 
 [Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
 
@@ -392,7 +389,10 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1aZGVkHr1SAmPZE7G6
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
+<!--
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
+
+Assignment 2 is out [here](https://docs.google.com/document/d/1aZGVkHr1SAmPZE7G6bKbfJVpZJMIF2mZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 23 Apr 2025, 11:59pm**
 
 [Lecture Slide](https://drive.google.com/file/d/1keczGztqmPGd8G5lDgoIdLQviksctISQ/view?usp=drive_link)
 
