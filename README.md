@@ -396,7 +396,6 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1BqxTOmBjoEevaDzuY
 
 **Move to week 13**
 
-<!--
 [Lecture Slide](https://drive.google.com/file/d/1keczGztqmPGd8G5lDgoIdLQviksctISQ/view?usp=drive_link)
 
 ### Lecture Content
@@ -413,4 +412,4 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1BqxTOmBjoEevaDzuY
 - [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
 
--->
+
