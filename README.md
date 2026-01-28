@@ -129,6 +129,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 3: Neural Networks & Optimization Basics
 
+[Instruction to choose final project's topic](https://drive.google.com/file/d/1_GwKZVTgY0Z_iAh-es85_72n3DqhlXzo/view?usp=sharing)
+
+[Final project's group list](https://docs.google.com/spreadsheets/d/1izkTKRX-KO0Vj7s6wCa-9IGFeK6YEOg4f5qjhOguC7k/edit?usp=drive_link)
+
 [Lecture Slide](https://drive.google.com/file/d/1Ncwe2ngjWEs9wO6WcpPRpQu3eS8iJqyn/view?usp=drive_link)
 
 ### Lecture Content
@@ -156,7 +160,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1ekBb2CcjXrWj1-j6-cBXsFBjPc4DXpqx/view?usp=sharing)
 
-[Instruction to choose final project's topic](https://drive.google.com/file/d/1_GwKZVTgY0Z_iAh-es85_72n3DqhlXzo/view?usp=sharing)
+
 
 ### Lecture Content
 
