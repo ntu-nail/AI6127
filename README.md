@@ -189,7 +189,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Linguistic Regularities in Sparse and Explicit Word Representations.](https://levyomer.files.wordpress.com/2014/04/linguistic-regularities-in-sparse-and-explicit-word-representations-conll-2014.pdf)
 - [Neural Word Embeddings as Implicit Matrix Factorization.](https://arxiv.org/abs/1702.02098)
 
-<!--
+
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1IN9fklmmzhu8qIeoLF6cOcS6gQezbsf6/view?usp=sharing)
@@ -215,7 +215,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 
-
+<!--
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1H-zu2tH4KxOG2k_zm9HunGqA9bZXP4Ow/view?usp=share_link)
