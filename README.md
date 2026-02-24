@@ -252,7 +252,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
 
-## Week 7: Machine translation and Seq2Seg Models
+## Week 7: Machine translation and Seq2Seq Models
 
 Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX-Xpln8jJavUaj-E/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 19 March 2026, 11:59pm**.
 
