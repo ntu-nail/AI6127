@@ -311,6 +311,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX
 
 [Lecture Slide](https://drive.google.com/file/d/1Y1R2GZAey1ICV2aMcdsQhGSk0qzZZX1B/view?usp=sharing)
 
+[Lecture recording](https://drive.google.com/file/d/1WvD8J0b_UqpeVgBsiEUbBG61DojMJw6Y/view?usp=drive_link)
+
 ### Lecture Content
 
 - Seq2Seq Variants (Pointer nets, Pointer Generator Nets)
