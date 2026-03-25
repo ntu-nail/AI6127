@@ -335,12 +335,14 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
-<!--
+
 ## Week 10: Contextual embeddings and self-supervised learning
 
-[Lecture Slide](https://drive.google.com/file/d/16lEYYzu4dMmlr8lA4TFsCcJlPZB7x__6/view?usp=sharing)
+Assignment 2 is out [here](https://docs.google.com/document/d/1BqxTOmBjoEevaDzuYk_afQlxYdeHgvuD/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 16 Apr 2026, 11:59pm**
 
-[Final project report instruction](https://drive.google.com/file/d/1nRQI5reIZc0olmD_6kywbV6Za9akth5B/view?usp=sharing)
+[Final project report instruction](https://docs.google.com/document/d/1AI64lOzCUY46Ob7viuxeyZHO1L7d_VNn/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true)
+
+[Lecture Slide](https://drive.google.com/file/d/16lEYYzu4dMmlr8lA4TFsCcJlPZB7x__6/view?usp=sharing)
 
 ### Lecture Content
 
@@ -373,10 +375,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1lVw40FPtjC8mV7HuX
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-
+<!--
 ## Week 11: Large Language Models & Multilingual NLP
 
-Assignment 2 is out [here](https://docs.google.com/document/d/1BqxTOmBjoEevaDzuYk_afQlxYdeHgvuD/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 18 Nov 2025, 11:59pm**
+
 
 [Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
 
