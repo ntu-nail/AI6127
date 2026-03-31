@@ -375,12 +375,10 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1BqxTOmBjoEevaDzuY
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
+
 ## Week 11: Large Language Models & Multilingual NLP
 
-
-
-[Lecture Slide](https://drive.google.com/file/d/1JQ7ty1CzxI4BvacCF47sSVONdUVv8ody/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1xrdGNnLtgqESJogjjhcSx6e1tNIn6KSh/view?usp=sharing)
 
 ### Lecture Content
 
@@ -399,7 +397,7 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1BqxTOmBjoEevaDzuY
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
-
+<!--
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 **Move to week 13**
